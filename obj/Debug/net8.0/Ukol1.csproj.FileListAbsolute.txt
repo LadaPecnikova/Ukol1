@@ -1,0 +1,14 @@
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.AssemblyInfoInputs.cache
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.AssemblyInfo.cs
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.csproj.CoreCompileInputs.cache
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/bin/Debug/net8.0/Ukol1
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/bin/Debug/net8.0/Ukol1.deps.json
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/bin/Debug/net8.0/Ukol1.runtimeconfig.json
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/bin/Debug/net8.0/Ukol1.dll
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/bin/Debug/net8.0/Ukol1.pdb
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.dll
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/refint/Ukol1.dll
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.pdb
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/Ukol1.genruntimeconfig.cache
+/Users/ladapecnikova/Desktop/C# 2/Ukol1/obj/Debug/net8.0/ref/Ukol1.dll
